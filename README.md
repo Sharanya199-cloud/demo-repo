@@ -1,4 +1,4 @@
 # demo-repo
 Demo repository
 <br>
-author-sherry
+author-sherry (github practise)
